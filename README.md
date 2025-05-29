@@ -1,9 +1,7 @@
 ## Hi there, I'm Antoni 👋
 
-I have completed two degrees – in Mechanical Engineering and Applied Mathematics 🧠.
-I'm currently finishing my Master's in Computer Science with a specialization in AI, while continuously improving my programming and general computer science skills 💻
+I hold two degrees – one in Mechanical Engineering and another in Applied Mathematics 🧠.
+I'm currently completing my Master's in Computer Science and Electronic Design, specializing in Embedded Systems, while continuously improving my skills through self-directed learning 💻
 
-I'm looking for my first job as a fullstack developer with .NET and React. 
-
-- 🔨 I’m currently working on personal projects
-- 🤖 I'm not afraid of AI when programming – I treat it as a tool to build software faster and better
+- 🔨 I'm currently finishing my studies and working on personal projects
+- 🤖 I'm not afraid to use an AI copilot when programming – I see it as a tool that helps me build faster and better
